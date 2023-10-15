@@ -1,0 +1,8 @@
+github.com/dayvonjersen/linguist v0.0.0-20230828081901-c82f0abfd1c3 h1:6jR2IAEzhMMNVUR2Q8kWc29ajwjUFcLZHrgG9OCFw2I=
+github.com/dayvonjersen/linguist v0.0.0-20230828081901-c82f0abfd1c3/go.mod h1:xknlwmFD3QEWcnHmnpf64EqsteuMWHUnGBIz457+9Cs=
+github.com/jbrukh/bayesian v0.0.0-20200318221351-d726b684ca4a h1:gbdjhSslIoRRiSSLCP3kKuLmqAJGmhnPVhIyf6Dbw34=
+github.com/jbrukh/bayesian v0.0.0-20200318221351-d726b684ca4a/go.mod h1:SELxwZQq/mPnfPCR2mchLmT4TQaPJvYtLcCtDWSM7vM=
+github.com/jteeuwen/go-bindata v3.0.7+incompatible h1:91Uy4d9SYVr1kyTJ15wJsog+esAZZl7JmEfTkwmhJts=
+github.com/jteeuwen/go-bindata v3.0.7+incompatible/go.mod h1:JVvhzYOiGBnFSYRyV00iY8q7/0PThjIYav1p9h5dmKs=
+gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0 h1:POO/ycCATvegFmVuPpQzZFJ+pGZeX22Ufu6fibxDVjU=
+gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0/go.mod h1:WDnlLJ4WF5VGsH/HVa3CI79GS0ol3YnhVnKP89i0kNg=
