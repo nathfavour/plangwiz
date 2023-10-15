@@ -24,12 +24,14 @@ Developed and built on a Macbook pro intel 2020
 
 Works on Debian systems and Macbook
 
-![1697340562768](image/README/1697340562768.png)
 
-Plangwiz was trained with data from almost 10,000 github public repositories.
+
+
+
+Plangwiz was trained/tested with data from almost 10,000 github public repositories.
 
 # USAGE
 
 prerequesite:
 
-1. Install go with brew install go
+1. Install go
